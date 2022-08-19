@@ -58,3 +58,4 @@ En este archivo hay que configurar los parámetros:
 Una vez que hayamos configurado el `dockerfile` y el archivo `docker-compose.yml` vamos a ejecutar, desde la consola, el comando `docker compose up` situándonos en la misma ruta donde se encuentra el archivo `docker-compose.yml`.
 
 Si no tuvimos ningún error, vamos a poder acceder al sitio desde `http://localhost:8200/`
+# Prueba
